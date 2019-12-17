@@ -1,0 +1,2 @@
+Increasing J makes the algorithm worse. j = the current generation. So increasing j speeds up the cooling scheme
+Need to find a way of slowing the cooling scheme down to see if that yields a better result
